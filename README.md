@@ -1,2 +1,2 @@
-# frontend_projects
+# Amazon-Homepage
 This is a front-end projects
